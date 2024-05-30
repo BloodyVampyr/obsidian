@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c4348565bccdba72",
+        "id": "7299b2d4df2535b0",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f54b0064267a5e",
+            "id": "26721976f4e740f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Films/S.O.S. Fantômes  La Menace de glace.md",
+                "file": "2024-05-30.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a545d3fae038065e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Citations/19-05-2024.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Citations/19-05-2024.md",
+                "file": "2024-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Citations/19-05-2024.md",
+                "file": "2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Citations/19-05-2024.md"
+                "file": "2024-05-30.md"
               }
             }
           },
@@ -172,26 +158,34 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a545d3fae038065e",
+  "active": "26721976f4e740f2",
   "lastOpenFiles": [
-    "Films/Dune  Deuxième Partie.md",
-    "Films/Kung Fu Panda 4.md",
-    "Films/S.O.S. Fantômes  La Menace de glace.md",
-    "BD Dataview.md",
-    "Sans titre 1.md",
-    "The Raven.md",
-    "BD ddd.md",
     "Sans titre.md",
+    "2024-05-30.md",
+    "DB/DB Dataview.md",
+    "Calendrier.md",
+    "Modeles/Notes.md",
+    "Mémentos.md",
+    "Sans titre 1.md",
+    "DB/DB Dataview 3.md",
+    "DB/DB Dataview2.md",
+    "Films/S.O.S. Fantômes  La Menace de glace.md",
+    "DB",
+    "Modeles/Cinema.md",
+    "Citations/14-05-2024.md",
+    "Modeles",
+    "sss.md",
+    "Films/Kung Fu Panda 4.md",
+    "Films/Dune  Deuxième Partie.md",
+    "2023-12-04.md",
+    "Citations/19-05-2024.md",
+    "The Raven.md",
     "BD essai1.md",
     "BD essai.md",
-    "Citations/19-05-2024.md",
     "Citations/18-05-2024.md",
     "Citations/17-05-2024.md",
     "Citations/16-05-2024.md",
     "Citations/15-05-2024.md",
-    "Citations/14-05-2024.md",
-    "2023-12-04.md",
-    "Mémentos.md",
     "essai 11.md",
     "Developpeurs",
     "Films",

@@ -1,7 +1,8 @@
 ---
 type: Film
 genre: Animation
-date:
+date: 
+Pays: USA
 ---
 
 
